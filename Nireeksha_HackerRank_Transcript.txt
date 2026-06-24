@@ -1,0 +1,16 @@
+Project: HackerRank Orchestrate June 2026
+AI Assistant: ChatGPT
+
+Transcript:
+
+ChatGPT transcript link:
+https://chatgpt.com/share/6a3622ab-d5ec-83e8-a030-db4c87a82168
+
+Used ChatGPT for:
+- Claim parsing
+- Gemini Vision integration
+- Image analysis
+- Output generation
+- Debugging
+- CSV generation
+- Submission preparation
